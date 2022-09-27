@@ -1,6 +1,6 @@
-# clash-magisk-simaster-v1.9
+# clash-magisk-simaster
 
-Cara pakai untuk config magisk simaster v1.9
+Cara pakai untuk config magisk simaster
 
 Siapkan bahan bahan terlebih dahulu:
 
@@ -46,7 +46,7 @@ jika berjalan tanda nya tidak ada error.
 
 saat berhasil berjalan tekan dashboard dan lakukan setting secara mandiri.
 
-kini anda sudah bisa berselancar di dunia internet clash magisk bersama simaster v.19
+kini anda sudah bisa berselancar di dunia internet clash magisk bersama simaster
 
 # DONASI
 Bagi anda yang berdonasi ke simaster di silahkan saja.
