@@ -26,7 +26,7 @@ jika sudah silahkan masuk MT Manager apk
 
 lalu buka folder root ke data kemudian hapus folder clash dan ganti dengan folder clash yang baru kalian download.
 
-kemudian masuk folder rootfs dan pilih clash.yaml dan edit untuk mengisi akun kalian dan save.
+kemudian masuk folder confs dan pilih clash.yaml dan edit untuk mengisi akun kalian dan save.
 
 pada MT manager gunakan mode kanan saja jangan di kiri saya pastikan gagal dan error.
 
