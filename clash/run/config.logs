@@ -1,0 +1,3 @@
+info msg="Start initial proxy provider clash#2"
+error msg="initial proxy provider clash#2 error: open /data/clash/confs/clash.yml: no such file or directory"
+error msg= /data/clash/run/config.yaml test failed

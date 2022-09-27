@@ -1,0 +1,22 @@
+Tue Sep 27 12:22:18 WITA 2022
+Clash for Magisk v1.13.0
+Clash Plus Pro bdcd649 linux arm64 with go1.19 Thu Aug 11 08:58:01 UTC 2022
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+「12:22」info: Using Clash Premium.
+「12:22」info: Config /data/clash/config.yaml.
+「12:22」info: Executed Clash service.
+「12:22」info: Status ipv6: false
+「12:22」info: using [tproxy] mode.
+「12:22」info: merge files /data/clash/config.yaml & template Succes.
+「12:22」info: schedule Update Core not active.
+「12:22」info: schedule Update GeoX & SubScription (0 00 * * *).
+「12:22」info: Geo status: [false] | Subs status: (false).
+「12:22」info: static dns: false.
+「12:22」info: local ip auto bypass is turned off.
+「12:22」err: /data/clash/config.yaml failed
+「12:22」info msg="Start initial proxy provider clash#2"
+「12:22」error msg="initial proxy provider clash#2 error: open /data/clash/confs/clash.yml: no such file or directory"
+「12:22」error msg= /data/clash/run/config.yaml test failed
+「12:27」warn: Clash has stopped.
+「12:27」warn: scripts Iptables tproxy dihapus
+「12:27」warn: disConnect

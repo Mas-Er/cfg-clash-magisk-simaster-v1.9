@@ -1,0 +1,36 @@
+/data/clash/scripts/clash.service[292]: kill: 5205: No such process
+/data/clash/scripts/clash.service[292]: kill: 5210: No such process
+
+/data/clash/scripts/clash.service[292]: can't create /proc/sys/net/ipv6/conf/wlan0/accept_ra: No such file or directory
+/data/clash/scripts/clash.service[292]: can't create /proc/sys/net/ipv6/conf/wlan0/disable_ipv6: No such file or directory
+/data/clash/scripts/clash.service[292]: setcap: inaccessible or not found
+/data/clash/scripts/clash.service[292]: ${Clash Config_file}: bad substitution
+/data/clash/scripts/clash.service[292]: kill: 7760: No such process
+/data/clash/scripts/clash.service[292]: kill: 7767: No such process
+RTNETLINK answers: No such file or directory
+RTNETLINK answers: No such process
+iptables v1.6.1: Couldn't find target `CLASH_DNS_EXTERNAL'
+
+Try `iptables -h' or 'iptables --help' for more information.
+iptables v1.6.1: Couldn't find target `CLASH_DNS_LOCAL'
+
+Try `iptables -h' or 'iptables --help' for more information.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
+iptables v1.6.1: Couldn't find target `CLASH_EXTERNAL'
+
+Try `iptables -h' or 'iptables --help' for more information.
+iptables v1.6.1: Couldn't find target `DIVERT'
+
+Try `iptables -h' or 'iptables --help' for more information.
+iptables v1.6.1: Couldn't find target `CLASH_LOCAL'
+
+Try `iptables -h' or 'iptables --help' for more information.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
+iptables: No chain/target/match by that name.
