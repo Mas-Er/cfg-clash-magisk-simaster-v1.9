@@ -1,0 +1,14 @@
+proxies:
+- name: akunku
+  server: bugmu.com
+  type: trojan
+  port: 443
+  password: cf3df150-36a3-11ed-8840-1239d0255272
+  udp: true
+  sni: sg2-trojan.bonds.id
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /howdy
+    header:
+      Host: sg2-trojan.bonds.id
